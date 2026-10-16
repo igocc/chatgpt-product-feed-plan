@@ -1,0 +1,77 @@
+{
+  "verified_at": "2026-10-16",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "OpenAI 商家申请与候补入口",
+      "url": "https://chatgpt.com/merchants/",
+      "scope": "申请表、候补、Shopify 既有集成；不是批准函。"
+    },
+    {
+      "id": "S2",
+      "title": "OpenAI Product Feed 接入指南",
+      "url": "https://developers.openai.com/commerce/guides/get-started",
+      "scope": "获批合作伙伴、文件与 API 接入、更新建议。"
+    },
+    {
+      "id": "S3",
+      "title": "文件投递与快照处理",
+      "url": "https://developers.openai.com/commerce/specs/file-upload/overview",
+      "scope": "SFTP、固定文件名、分片、保留与移除规则。"
+    },
+    {
+      "id": "S4",
+      "title": "文件格式商品字段规范",
+      "url": "https://developers.openai.com/commerce/specs/file-upload/products",
+      "scope": "九个基础字段、变体、金额、库存、市场与资格。"
+    },
+    {
+      "id": "S5",
+      "title": "API 请求约定",
+      "url": "https://developers.openai.com/commerce/specs/api/overview",
+      "scope": "认证头、幂等键、请求追踪；生产接入参数须获批后确认。"
+    },
+    {
+      "id": "S6",
+      "title": "Feed API",
+      "url": "https://developers.openai.com/commerce/specs/api/feeds",
+      "scope": "创建及读取 Feed 元数据。"
+    },
+    {
+      "id": "S7",
+      "title": "Products API",
+      "url": "https://developers.openai.com/commerce/specs/api/products",
+      "scope": "嵌套商品与变体、金额最小单位、PATCH upsert。"
+    },
+    {
+      "id": "S8",
+      "title": "OpenAI Feed 最佳实践",
+      "url": "https://developers.openai.com/commerce/guides/best-practices",
+      "scope": "事实描述、稳定标识、变体专属数据及追踪。"
+    },
+    {
+      "id": "S9",
+      "title": "Shopify 向 ChatGPT 分发的条件",
+      "url": "https://help.shopify.com/en/manual/online-sales-channels/agentic-storefronts/chatgpt",
+      "scope": "原生渠道资格及商家政策要求。"
+    },
+    {
+      "id": "S10",
+      "title": "Shopify Catalog 与商品发现",
+      "url": "https://help.shopify.com/en/manual/online-sales-channels/agentic-storefronts/products",
+      "scope": "Catalog 分发与网站发现文件的区别。"
+    },
+    {
+      "id": "S11",
+      "title": "Shopify Admin GraphQL 批量读取",
+      "url": "https://shopify.dev/docs/apps/build/apis/graphql-admin/bulk-operations/queries",
+      "scope": "服务端批量读取商品与变体。"
+    },
+    {
+      "id": "S12",
+      "title": "Shopify HTTPS Webhook 接收",
+      "url": "https://shopify.dev/docs/apps/build/webhooks/subscribe/https",
+      "scope": "原始请求体 HMAC 验证与接收处理。"
+    }
+  ]
+}

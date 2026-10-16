@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+verification/
+private-onboarding/
+.env
+.env.*
+!.env.example
